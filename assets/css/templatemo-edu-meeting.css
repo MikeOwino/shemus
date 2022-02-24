@@ -576,7 +576,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #f5a425!important;
+    color: #2fcc71!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -634,7 +634,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #f5a425!important;
+    color: #2fcc71!important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
