@@ -1507,7 +1507,7 @@ section.meetings-page .filters {
 
 section.meetings-page .filters li {
   font-size: 13px;
-  color: #a12c2f;
+  color: #00558b;
   background-color: #fff;
   padding: 11px 30px;
   display: inline-block;
@@ -1521,7 +1521,7 @@ section.meetings-page .filters li {
 
 section.meetings-page .filters ul li.active,
 section.meetings-page .filters ul li:hover {
-  background-color: #a12c2f;
+  background-color: #00558b;
   color: #fff;
 }
 
