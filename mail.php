@@ -1,7 +1,7 @@
 <html>
    
    <head>
-      <title>Sending HTML email using PHP</title>
+      <title>emailer</title>
    </head>
    
    <body>
