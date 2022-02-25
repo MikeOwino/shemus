@@ -1082,7 +1082,7 @@ section.apply-now .item p {
   transition: transform 200ms ease-in-out;
 }
 .accordion-head.is-open {
-  color: #f5a425;
+  color: #00558b;
   border-bottom: none;
 }
 .accordion-head.is-open .icon {
