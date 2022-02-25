@@ -95,7 +95,7 @@ a {
 }
 
 a:hover {
-	color: #FC3;
+	color: #2fcc71;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -235,7 +235,7 @@ header
 }
 
 .sub-header .right-icons ul li a:hover {
-  color: #f5a425;
+  color: #2fcc71;
 }
 
 .sub-header .left-content p em {
