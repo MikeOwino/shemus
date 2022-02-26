@@ -114,7 +114,7 @@ p {
 }
 
 img {
-  width: %;
+  /* width: 100%; */
   overflow: hidden;
 }
 
