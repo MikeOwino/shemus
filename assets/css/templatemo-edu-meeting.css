@@ -114,7 +114,7 @@ p {
 }
 
 img {
-  width: 100%;
+  /*width: 100%;*/
   overflow: hidden;
 }
 
@@ -245,7 +245,7 @@ header
 
 .background-header {
   background-color: #fff!important;
-  height: 80px!important;
+  height: 87px!important;
   position: fixed!important;
   top: 0!important;
   left: 0;
